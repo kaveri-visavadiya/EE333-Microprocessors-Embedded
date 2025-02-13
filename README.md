@@ -1,5 +1,5 @@
 # Microprocessors-Embedded
-This repo contains some projects/assignments I did with teammate [Mahi Agarwal(https://github.com/MahiAgarwal26) for course EE333 -  Microprocessors and Embedded Systems during Jan-Apr 2025 at IIT Gandhinagar.
+This repo contains some projects/assignments I did with teammate [Mahi Agarwal](https://github.com/MahiAgarwal26) for course EE333 -  Microprocessors and Embedded Systems during Jan-Apr 2025 at IIT Gandhinagar.
 
 Application -> STM32CubeIDE 1.17.0
 
