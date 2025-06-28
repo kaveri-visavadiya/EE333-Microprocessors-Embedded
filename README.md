@@ -9,5 +9,5 @@ Board -> NUCLEO-F439ZI
 
 I have uploaded only the C and IOC files. Place the LCD header file in the Core->Inc folder and LCD source file in the Core->Src folder.
 
-### for lab 6
+### For lab 6
 The 8085 architecture is used.
